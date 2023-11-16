@@ -1,0 +1,69 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header,
+.footer{
+    background-color: rgb(127, 160, 250);
+    height: auto;
+    
+    padding: 20px;
+}
+
+.content{
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    flex: auto;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    margin: 0 20px;
+}
+.computer-selection,
+.player-selection{
+    display: inline-block;
+    text-align: center;
+
+}
+.game-status,
+.score-box {
+    font-size: 1.5rem;
+    margin: 20px 0;
+}
+.selection-section{
+    display: flex;
+    justify-content: center;
+    flex:auto;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.choices{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #2980b9;
+}
+
