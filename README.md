@@ -27,7 +27,7 @@ This is a basic rock paper game.
 ### Links
 
 - Solution URL: (https://github.com/Gauravraj360/Rock-Paper-Scissor.git)
-- Live Site URL: (https://gauravraj360.github.io/Rock-Papar-Scissor/)
+- Live Site URL: (https://gauravraj360.github.io/Rock-Paper-Scissor/)
 
 ## My process
 
